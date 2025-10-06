@@ -1,5 +1,3 @@
 # test2
 
-ezgrhtreds
-egrhtndkofsdlqmsùflds
-Ceci est un test
+Bonjour Bassirou, ceci est un test pour voir si tu maitrises git add ., git commit -m "ok", git push et git pull
